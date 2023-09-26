@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm 23 years old and recently graduated from the Electrical and Computer Engineering master's programme at FEUP. During my studies, I had the opportunity to develop my programming skills, teamwork abilities and problem solving by actively participating in academic projects, creating applications for automation, computer vision and robotics.
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva2703&layout=compact&theme=radical)
 
 <!--
