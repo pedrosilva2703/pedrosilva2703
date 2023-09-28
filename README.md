@@ -5,13 +5,12 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva2703&layout=compact&theme=radical)
 
-### Java Projects
-## Team projects
-# Aaaa
-
+### Java applications developed for my Master's Dissertation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_erp&show_owner=true)](https://github.com/pedrosilva2703/mini_erp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_mes&show_owner=true)](https://github.com/pedrosilva2703/mini_mes)
 
+### ROS/C++ app and Arduino program for IW2 (Research Assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_mes&show_owner=true)](https://github.com/dany3cunha/IW2.0)
 <!--
 **pedrosilva2703/pedrosilva2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
