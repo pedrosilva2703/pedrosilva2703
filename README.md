@@ -15,6 +15,8 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dany3cunha&repo=IW2.0&show_owner=true)](https://github.com/dany3cunha/IW2.0)
 
 ### Academic team projects
+ * Android app for a Smart Lights system (Android Studio, Java, MySQL)
+ * [Android app for a Smart Lights system](https://github.com/orgs/ES-Equipa-F/repositories) (Android Studio, Java, MySQL)
 <!--
 **pedrosilva2703/pedrosilva2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
