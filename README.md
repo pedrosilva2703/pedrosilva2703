@@ -10,7 +10,7 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_mes&show_owner=true)](https://github.com/pedrosilva2703/mini_mes)
 
 ### ROS/C++ app and Arduino program for IW2 (Research Assistant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_mes&show_owner=true)](https://github.com/dany3cunha/IW2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dany3cunha&repo=IW2.0&show_owner=true)](https://github.com/dany3cunha/IW2.0)
 <!--
 **pedrosilva2703/pedrosilva2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
