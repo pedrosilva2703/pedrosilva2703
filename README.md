@@ -21,6 +21,8 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
  * [Website for Eletronics Shop](https://github.com/dany3cunha/SIE-FEUP) (PHP, HTML&CSS, PostgreSQL)
  * [Perception and Mapping](https://github.com/pedrosilva2703/PM-FEUP) (Python, ROS/C++, OpenCV, PCL)
  * [Computer Vision](https://github.com/pedrosilva2703/VC-FEUP) (Python, OpenCV)
+ * [Home Alarm System](https://github.com/pedrosilva2703/SBMI-FEUP) (C, ATmega328P)
+ * [C Data Structures](https://github.com/pedrosilva2703/PROG2-FEUP) (C)
 
 
 
