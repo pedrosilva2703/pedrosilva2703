@@ -7,6 +7,7 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_erp&show_owner=true)](https://github.com/pedrosilva2703/mini_erp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_mes&show_owner=true)](https://github.com/pedrosilva2703/mini_mes)
 
 <!--
 **pedrosilva2703/pedrosilva2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
