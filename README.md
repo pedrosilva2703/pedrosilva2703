@@ -5,6 +5,9 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva2703&layout=compact&theme=radical)
 
+### Java Projects
+## Team projects
+# Aaaa
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_erp&show_owner=true)](https://github.com/pedrosilva2703/mini_erp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=mini_mes&show_owner=true)](https://github.com/pedrosilva2703/mini_mes)
