@@ -11,6 +11,8 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
 
 ### ROS/C++ app and Arduino program for IW2 (Research Assistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dany3cunha&repo=IW2.0&show_owner=true)](https://github.com/dany3cunha/IW2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dany3cunha&repo=roi_focus&show_owner=true)](https://github.com/dany3cunha/roi_focus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrosilva2703&repo=IW2_move_wheelchair&show_owner=true)](https://github.com/pedrosilva2703/IW2_move_wheelchair)
 <!--
 **pedrosilva2703/pedrosilva2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
