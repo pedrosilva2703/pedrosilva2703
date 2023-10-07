@@ -16,9 +16,9 @@ I'm 23 years old and recently graduated from the Electrical and Computer Enginee
 
 ### Academic team projects
  * [Automation of a production line](https://github.com/infi2122) (Java, CODESYS, OPC-UA)
- * [Android app for a Smart Lights system](https://github.com/orgs/ES-Equipa-F/repositories) (Android Studio, Java, MySQL)
- * [Warehouse Management Application](https://github.com/pedrosilva2703/PSW-FEUP) (Java, JavaFX, PostgreSQL)
  * [Website for Eletronics Shop](https://github.com/dany3cunha/SIE-FEUP) (PHP, HTML&CSS, PostgreSQL)
+ * [Warehouse Management Application](https://github.com/pedrosilva2703/PSW-FEUP) (Java, JavaFX, PostgreSQL)
+ * [Android app for a Smart Lights system](https://github.com/orgs/ES-Equipa-F/repositories) (Android Studio, Java, MySQL)
  * [Perception and Mapping](https://github.com/pedrosilva2703/PM-FEUP) (Python, ROS/C++, OpenCV, PCL)
  * [Computer Vision](https://github.com/pedrosilva2703/VC-FEUP) (Python, OpenCV)
  * [Home Alarm System](https://github.com/pedrosilva2703/SBMI-FEUP) (C, ATmega328P)
